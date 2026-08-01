@@ -75,7 +75,7 @@ padding: 20px;
         background-color: rgb(11, 11, 253);
         color: rgb(0, 128, 0);
         border: none;
-        padding: 10px 20px;
+        padding: 20px30px;
         border-radius: 5px;
         cursor: pointer;
         font-size: 16px;
@@ -85,7 +85,7 @@ padding: 20px;
     }
 
 .print-button:hover{
-    background-color: rgb(9, 240, 9);
+    background-color: rgb(11, 11,253);
 
 }
 /* Estilos para impresión */
